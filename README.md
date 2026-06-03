@@ -1,7 +1,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ReggiRi&show_icons=true&count_private=true&hide_title=false&hide=prs,issues&theme=radical)
 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReggiRi&layout=compact&theme=radical)
 <!--
 **ReggiRi/ReggiRi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
