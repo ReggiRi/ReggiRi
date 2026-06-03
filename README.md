@@ -1,7 +1,10 @@
+![Metrics](https://metrics.lecoq.io/ReggiRi?template=classic&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1)
+![Trophy](https://github-profile-trophy.vercel.app/?username=ReggiRi&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=ReggiRi&theme=radical)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ReggiRi&show_icons=true&count_private=true&hide_title=false&hide=prs,issues&theme=radical)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ReggiRi&show_icons=true&count_private=true&hide_title=false&hide=prs,issues&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReggiRi&layout=compact&theme=radical)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReggiRi&layout=compact&theme=radical)
 <!--
 **ReggiRi/ReggiRi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
