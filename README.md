@@ -1,6 +1,3 @@
-I'm![Metrics](https://metrics.lecoq.io/ReggiRi?template=classic&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1)
-![GitHub Streak](https://streak-stats.demolab.com?user=ReggiRi&theme=radical)
-
 [![График активности](https://github-readme-activity-graph.vercel.app/graph?username=ReggiRi&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- бебебе. нужно чюда чегонить дописать. Ух, забыл запушить сегодняшние изменения… 
